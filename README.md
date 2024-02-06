@@ -4,9 +4,20 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uswaabid&label=Profile%20views&color=0e75b6&style=flat" alt="uswaabid" /> </p>
 
+- 🔭 I’m working **on my skills for now.**
+
+- 🌱 I’m currently learning **Python, HTML, DSA & Assembly language**
+
+- 🤝 I’m interested in **Programming, Web development, Cyber Security & Ethical Hacking**
+
+- 🚀 Engaged in **innovation projects at various levels, from concept inception to implementation 💡**
+
 - 📫 How to reach me **uswa7august@gmail.com**
+
+- ⚡ Fun fact: **When I'm not coding, you'll find me mastering new languages – not just programming ones, but spoken languages too!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
