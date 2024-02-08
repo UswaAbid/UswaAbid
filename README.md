@@ -1,4 +1,4 @@
-![logo](https://github.com/UswaAbid/UswaAbid/blob/main/banner01.jpg)
+![logo](https://github.com/UswaAbid/UswaAbid/blob/main/banner02.jpg)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=EB+Garamond&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+Uswa+Abid's+Profile!;" />
 </h1>
