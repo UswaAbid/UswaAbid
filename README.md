@@ -1,5 +1,8 @@
 ![logo](https://github.com/UswaAbid/UswaAbid/blob/main/banner01.jpg)
-<h1 align="center">Welcome To Uswa Abid's Profile!</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=EB+Garamond&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+Uswa+Abid's+Profile!;" />
+</h1>
+
 <h3 align="center">"🚀 Passionate Code Enthusiast from Pakistan | Seeking Challenges, Crafting Solutions 💻"</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
