@@ -12,9 +12,9 @@
 
 - 🔭 I’m working **on my skills for now.**
 
-- 🌱 I’m currently learning **Python, HTML, DSA & Assembly language**
+- 🌱 I’m currently learning **Python, HTML, CSS & JS.**
 
-- 🤝 I’m interested in **Programming, Web development, Cyber Security & Ethical Hacking**
+- 🤝 I’m interested in **Programming, Web development & Cyber Security.**
 
 - 🚀 Engaged in **innovation projects at various levels, from concept inception to implementation 💡**
 
