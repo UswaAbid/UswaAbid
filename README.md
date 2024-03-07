@@ -5,7 +5,7 @@
 
 <h3 align="center">"🚀 WordPress Developer | Passionate Code Enthusiast | Seeking Challenges | Crafting Solutions 💻"</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/18295942227413764/">
+<img align="right" alt="coding" width="400" src="https://github.com/UswaAbid/UswaAbid/blob/main/Image.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uswaabid&label=Profile%20views&color=0e75b6&style=flat" alt="uswaabid" /> </p>
