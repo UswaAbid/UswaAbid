@@ -1,9 +1,11 @@
-![logo](https://github.com/UswaAbid/UswaAbid/blob/main/banner02.jpg)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=EB+Garamond&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=3000&lines=Welcome+To+Uswa+Abid's+Profile!;" />
 </h1>
 
 <h3 align="center">"🚀 WordPress Developer | Passionate Code Enthusiast | Seeking Challenges | Crafting Solutions 💻"</h3>
+
+<img align="centre" alt="coding" width="400" src="https://github.com/UswaAbid/UswaAbid/blob/main/illustration.gif">
 
 <img align="right" alt="coding" width="400" src="https://github.com/UswaAbid/UswaAbid/blob/main/illustration.gif">
 
