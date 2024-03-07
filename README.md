@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/UswaAbid/UswaAbid/blob/main/Laptop%20Banner.gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=EB+Garamond&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=3000&lines=Welcome+To+Uswa+Abid's+Profile!;" />
 </h1>
