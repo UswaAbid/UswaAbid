@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=EB+Garamond&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=3000&lines=Welcome+To+Uswa+Abid's+Profile!;" />
 </h1>
 
-<h3 align="center">"🚀 Web Developer | WordPress Developer | PHP Developer | JS | MySQL | Python | ML Enthusiast 💻"</h3>
+<h3 align="center">"🚀 Web Developer | WordPress Developer | PHP Developer | Python Developer | ML Enthusiast 💻"</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/UswaAbid/UswaAbid/blob/main/illustration.gif">
 
@@ -12,9 +12,9 @@
 
 - 🔭 I’m working **on my skills for now.**
 
-- 🌱 I’m currently strenthening my grip on **python and canva.**
+- 🌱 I’m currently strenthening my grip on **Flutter and Python.**
 
-- 🤝 I’m interested in **ML, Data Science & Development.**
+- 🤝 I’m interested in **AI, ML, Data Science & Development.**
 
 - 🚀 Engaged in **innovation projects at various levels, from concept inception to implementation 💡**
 
