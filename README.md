@@ -10,15 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uswaabid&label=Profile%20views&color=0e75b6&style=flat" alt="uswaabid" /> </p>
 
-- 🔭 I’m a Front-End Developer with interest in AI & ML.**
+- 🔭 I’m a Front-End Developer with interest in AI & ML
 
-- 🌱 I’m currently researching Neural Networks & Adaptive Learning for text intelligence.**
+- 💡 I’m currently researching Neural Networks & Adaptive Learning for text intelligence
 
-- 🤝 I’m open to opportunities in development & AI driven solutions.**
+- 🤝 I’m open to opportunities in development & AI driven solutions
 
-- 🚀 Engaged in **innovation projects at various levels, from concept inception to implementation 💡**
+- 🚀 Engaged in innovation projects at various levels, from concept inception to implementation
 
-- 📫 How to reach me **uswa7august@gmail.com**
+- 📫 How to reach me uswa7august@gmail.com
  
 
 <h3 align="left">Connect with me:</h3>
