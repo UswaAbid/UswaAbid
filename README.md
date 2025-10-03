@@ -3,24 +3,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=EB+Garamond&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=3000&lines=Welcome+To+Uswa+Abid's+Profile!;" />
 </h1>
 
-<h3 align="center">"🚀 Web Developer | WordPress Developer | PHP Developer | Python Developer | ML Enthusiast 💻"</h3>
+<h3 align="center">"Front-End Developer | Exploring Neural Networks for Text Intelligence | BCS’26 💻"</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/UswaAbid/UswaAbid/blob/main/illustration.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uswaabid&label=Profile%20views&color=0e75b6&style=flat" alt="uswaabid" /> </p>
 
-- 🔭 I’m working **on my skills for now.**
+- 🔭 I’m a Front-End Developer with interest in AI & ML.**
 
-- 🌱 I’m currently strenthening my grip on **Flutter and Python.**
+- 🌱 I’m currently researching Neural Networks & Adaptive Learning for text intelligence.**
 
-- 🤝 I’m interested in **AI, ML, Data Science & Development.**
+- 🤝 I’m open to opportunities in development & AI driven solutions.**
 
 - 🚀 Engaged in **innovation projects at various levels, from concept inception to implementation 💡**
 
 - 📫 How to reach me **uswa7august@gmail.com**
-
-- ⚡ Fun fact: **When I'm not coding, you'll find me mastering new languages – not just programming ones, but spoken languages too!**
  
 
 <h3 align="left">Connect with me:</h3>
